@@ -3,7 +3,7 @@
 
 - 📝 I work with my team, IT companies and clients on software solutions like online shops, ERP, HRM, CRM, POS, message broadcasting services, etc.
 
-- 💬 Ask me about **php, javascript, nodejs, react, flutter**
+- 💬 Ask me about **figma, php, javascript, nodejs, react (native), flutter**
 
 - 📫 Reach me @ **info@carsonng.com**
 
