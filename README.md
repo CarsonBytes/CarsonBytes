@@ -80,5 +80,5 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"
             alt="python" width="40" height="40" /> </a>
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=carsonng&show_icons=true&locale=en&layout=compact"
-        alt="carsonng" /></p>
+<!--<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=carsonng&show_icons=true&locale=en&layout=compact"
+        alt="carsonng" /></p>-->
