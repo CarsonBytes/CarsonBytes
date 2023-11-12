@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **figma, php, javascript, nodejs, react (native), flutter**
 
-- 📫 Reach me @ **info@carsonng.com**
+- 📫 Reach me @ **info@hkit.supply**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
