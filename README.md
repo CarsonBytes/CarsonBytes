@@ -5,4 +5,4 @@
 
 - 💬 Ask me about **figma, php, javascript, nodejs, react (native), flutter**
 
-- 📫 Reach me @ **info@hkit.supply**
+- 📫 Reach me @ **info@carsonng.com**
