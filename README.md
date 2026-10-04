@@ -6,26 +6,22 @@
 
 Currently **Head of AI Governance at Votee AI** (Hong Kong), where I drive our cybersecurity and AI safety standards programme toward certification alongside the AI governance function.
 
-The pattern across everything I ship: **trustworthy by construction, not by policy alone** — human-in-the-loop checkpoints instead of advisory labels, deterministic gates instead of LLM judgment calls on high-stakes decisions, structural anti-hallucination instead of prompt-level hope. Grounded in NIST AI RMF and the EU AI Act.
-
 📄 Full portfolio, live projects, and case studies: **[carsonng.com](https://carsonng.com)**
 
 ## A few things I've built and operate
 
-- **Change Impact Assessor** — a risk assessor for code/infra changes where a HIGH-risk classification actually pauses the workflow behind a real human-in-the-loop checkpoint, not just an advisory label.
-- **Quantitative Trade-Analysis Platform** — a 22-ETF trading platform where a multi-agent LLM analyst feeds a deterministic risk gate that decides whether capital moves, not the LLM itself. Live on Interactive Brokers alongside an isolated paper account.
-- **AWS AI Code Review & Security Scanning Demo** — Amazon Q Developer + Amazon Inspector gating merges on critical findings, not leaving them as comments someone might read.
-- **AI Regulation Radar** — monitors EU AI Act, NIST AI RMF, and HK PCPD sources, diffs legal text changes, and generates plain-English impact assessments.
-- **Command Deck** — ops center for a fleet of live services: cross-project LLM cost tracking, health monitoring, and a deliberate quarantine/restart-eligibility gate that distinguishes an intentional pause from a genuine liveness failure.
-- **Sprint Analyzer** — deterministic-numbers / LLM-prose split: pandas computes every metric from Jira/ClickUp exports, the LLM only writes prose. 110+ tests run without an API key.
-- **Event Radar** — AI event discovery for Hong Kong with a closed feedback loop and hallucinated-event-ID rejection on every LLM-referenced result.
-- **SpendLens** — personal credit-card spend monitor where pandas computes every figure from the source statement, so the model structurally cannot invent a number.
+- **Change Impact Assessor** — a risk assessor for code/infra changes where a HIGH-risk classification actually pauses the workflow behind a real human-in-the-loop checkpoint, not just an advisory label. · [Live](https://carsonng.short.gy/change-impact-assessor) · [GitHub](https://carsonng.short.gy/change-impact-assessor-github)
+- **Quantitative Trade-Analysis Platform** — a 22-ETF trading platform where a multi-agent LLM analyst feeds a deterministic risk gate that decides whether capital moves, not the LLM itself. Live on Interactive Brokers alongside an isolated paper account. · [Paper Account](https://carsonng.short.gy/quant) · [GitHub](https://carsonng.short.gy/quant-trade-analysis-github)
+- **AWS AI Code Review & Security Scanning Demo** — Amazon Q Developer + Amazon Inspector gating merges on critical findings, not leaving them as comments someone might read. · [GitHub](https://carsonng.short.gy/aws-code-review-github)
+- **AI Regulation Radar** — monitors EU AI Act, NIST AI RMF, and HK PCPD sources, diffs legal text changes, and generates plain-English impact assessments. · [Live](https://carsonng.short.gy/ai-regulation-radar)
+- **Command Deck** — ops center for a fleet of live services: cross-project LLM cost tracking, health monitoring, and a deliberate quarantine/restart-eligibility gate that distinguishes an intentional pause from a genuine liveness failure. · [Live](https://carsonng.short.gy/command-deck) · [GitHub](https://carsonng.short.gy/command-deck-github)
+- **Sprint Analyzer** — deterministic-numbers / LLM-prose split: pandas computes every metric from Jira/ClickUp exports, the LLM only writes prose. 110+ tests run without an API key. · [Live](https://carsonng.short.gy/sprint-analyzer) · [GitHub](https://carsonng.short.gy/sprint-analyzer-carsonng)
+- **Event Radar** — AI event discovery for Hong Kong with a closed feedback loop and hallucinated-event-ID rejection on every LLM-referenced result. · [Live](https://carsonng.short.gy/event-radar-demo) · [GitHub](https://carsonng.short.gy/event-radar-github)
+- **SpendLens** — personal credit-card spend monitor where pandas computes every figure from the source statement, so the model structurally cannot invent a number. · [Live](https://carsonng.short.gy/spendlens-demo) · [GitHub](https://carsonng.short.gy/spendlens-demo-github)
 
 ## Certifications
 
 PMP · CISA · AWS Certified Solutions Architect – Professional · HashiCorp Terraform Associate · PSM II · Microsoft Azure AI Engineer Associate · Zend Certified Engineer
-
-*(AIGP — Artificial Intelligence Governance Professional: on hold, paused in favour of cybersecurity and AI safety standards)*
 
 ## Skills
 
