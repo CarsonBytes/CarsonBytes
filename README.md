@@ -10,14 +10,14 @@ Currently **Head of AI Governance at Votee AI** (Hong Kong), where I drive our c
 
 ## A few things I've built and operate
 
-- **Change Impact Assessor** — a risk assessor for code/infra changes where a HIGH-risk classification actually pauses the workflow behind a real human-in-the-loop checkpoint, not just an advisory label. · [Live](https://carsonng.short.gy/change-impact-assessor) · [GitHub](https://carsonng.short.gy/change-impact-assessor-github)
+- **Command Deck** — ops center for a fleet of live services: cross-project LLM cost tracking, health monitoring, and a deliberate quarantine/restart-eligibility gate that distinguishes an intentional pause from a genuine liveness failure. · [Live](https://carsonng.short.gy/command-deck) · [GitHub](https://carsonng.short.gy/command-deck-github)
 - **Quantitative Trade-Analysis Platform** — a 22-ETF trading platform where a multi-agent LLM analyst feeds a deterministic risk gate that decides whether capital moves, not the LLM itself. Live on Interactive Brokers alongside an isolated paper account. · [Paper Account](https://carsonng.short.gy/quant) · [GitHub](https://carsonng.short.gy/quant-trade-analysis-github)
 - **AWS AI Code Review & Security Scanning Demo** — Amazon Q Developer + Amazon Inspector gating merges on critical findings, not leaving them as comments someone might read. · [GitHub](https://carsonng.short.gy/aws-code-review-github)
-- **AI Regulation Radar** — monitors EU AI Act, NIST AI RMF, and HK PCPD sources, diffs legal text changes, and generates plain-English impact assessments. · [Live](https://carsonng.short.gy/ai-regulation-radar)
-- **Command Deck** — ops center for a fleet of live services: cross-project LLM cost tracking, health monitoring, and a deliberate quarantine/restart-eligibility gate that distinguishes an intentional pause from a genuine liveness failure. · [Live](https://carsonng.short.gy/command-deck) · [GitHub](https://carsonng.short.gy/command-deck-github)
-- **Sprint Analyzer** — deterministic-numbers / LLM-prose split: pandas computes every metric from Jira/ClickUp exports, the LLM only writes prose. 110+ tests run without an API key. · [Live](https://carsonng.short.gy/sprint-analyzer) · [GitHub](https://carsonng.short.gy/sprint-analyzer-carsonng)
 - **Event Radar** — AI event discovery for Hong Kong with a closed feedback loop and hallucinated-event-ID rejection on every LLM-referenced result. · [Live](https://carsonng.short.gy/event-radar-demo) · [GitHub](https://carsonng.short.gy/event-radar-github)
 - **SpendLens** — personal credit-card spend monitor where pandas computes every figure from the source statement, so the model structurally cannot invent a number. · [Live](https://carsonng.short.gy/spendlens-demo) · [GitHub](https://carsonng.short.gy/spendlens-demo-github)
+- **AI Regulation Radar** — monitors EU AI Act, NIST AI RMF, and HK PCPD sources, diffs legal text changes, and generates plain-English impact assessments. · [Live](https://carsonng.short.gy/ai-regulation-radar)
+- **Sprint Analyzer** — deterministic-numbers / LLM-prose split: pandas computes every metric from Jira/ClickUp exports, the LLM only writes prose. 110+ tests run without an API key. · [Live](https://carsonng.short.gy/sprint-analyzer) · [GitHub](https://carsonng.short.gy/sprint-analyzer-carsonng)
+- **Change Impact Assessor** — a risk assessor for code/infra changes where a HIGH-risk classification actually pauses the workflow behind a real human-in-the-loop checkpoint, not just an advisory label. · [Live](https://carsonng.short.gy/change-impact-assessor) · [GitHub](https://carsonng.short.gy/change-impact-assessor-github)
 
 ## Certifications
 
